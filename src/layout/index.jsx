@@ -64,39 +64,27 @@ const Tokensoptions = [
   },
   {
     img: dropicon2,
-    text: "Option 2",
+    text: "BNB",
   },
   {
     img: dropicon3,
-    text: "Option 3",
+    text: "USDT",
   },
   {
     img: dropicon4,
-    text: "Option 4",
+    text: "Sol",
   },
   {
     img: dropicon5,
-    text: "Option 5",
+    text: "XRP",
   },
   {
     img: dropicon6,
-    text: "Option 6",
-  },
-  {
-    img: dropicon7,
-    text: "Option 7",
-  },
-  {
-    img: dropicon8,
-    text: "Option 8",
-  },
-  {
-    img: dropicon9,
-    text: "Option 9",
+    text: "Doge",
   },
   {
     img: dropicon10,
-    text: "Option 10",
+    text: "TRON",
   },
 ];
 const Periodptions = [
