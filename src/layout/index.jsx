@@ -60,7 +60,7 @@ const Tokensoptions = [
   },
   {
     img: dropicon1,
-    text: "ETH (ERC-20)",
+    text: "ETH",
   },
   {
     img: dropicon2,
